@@ -1,12 +1,49 @@
-# React + Vite
+# 🧑‍💻 Portfólio - Allan Rodrigues
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de portfólio pessoal desenvolvido em **React** com **Reactstrap** e suporte a múltiplos idiomas (PT-BR / EN).
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/)
+- [Reactstrap](https://reactstrap.github.io/)
+- [Bootstrap](https://getbootstrap.com/)
+- [i18next](https://www.i18next.com/)
+- [react-i18next](https://react.i18next.com/)
 
-## Expanding the ESLint configuration
+## 📦 Instalação
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## 🌍 Funcionalidades atuais
+
+- ✅ Estrutura modular com React
+- ✅ Estilização com Reactstrap e Bootstrap
+- ✅ Suporte a dois idiomas: 🇧🇷 PT-BR e 🇺🇸 EN
+- ✅ Seção de introdução modular com nome, título e biografia
+- ✅ Componente para troca de idioma com botão
+
+## 🗂 Estrutura de Pastas
+
+```
+src/
+├── components/
+│   ├── IntroSection.jsx
+│   └── LanguageSwitcher.jsx
+├── locales/
+│   ├── en/translation.json
+│   └── pt/translation.json
+├── i18n.js
+├── App.jsx
+└── main.jsx
+```
+
+## ✍️ Sobre Mim
+
+**Allan Rodrigues** — Desenvolvedor criativo com background em arte e design gráfico, apaixonado por entender como jogos funcionam em todo o seu ecossistema
+
+---
+
+Sinta-se à vontade para contribuir ou utilizar como base para o seu próprio portfólio!
