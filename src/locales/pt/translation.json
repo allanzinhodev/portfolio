@@ -1,5 +1,87 @@
 {
   "name": "Allan Rodrigues",
   "title": "Desenvolvedor Criativo",
-  "bio": "Sou um Desenvolvedor de software multidisciplinar com um background em artes e design gráfico. Amo estudar como jogos e videogames funcionam a nível de máquina."
+  "bio": "Sou um Desenvolvedor de software multidisciplinar com um background em artes e design gráfico. Amo estudar como jogos e videogames funcionam a nível de máquina.",
+
+  "resume": {
+    "professional": "Jornada Profissional",
+    "academic": "Formação Acadêmica",
+    "experience": [
+  {
+    "role": "Desenvolvedor OTCLIENT (C++) - Contrato",
+    "company": "Atalaia Systems 722",
+    "period": "Jun 2025 - Presente",
+    "description": "Contratado principalmente para desenvolvimento de OTCLIENT utilizando C++ e LUA para elaboração de iterações do OTCLIENTV8, um client que visa emular um MMORPG baseado no Tibia clássico. Também responsável por resolver pequenos bugs de API PHP do site do servidor e elaborar pequenos sistemas em LUA. Utilizamos um KANBAN como modelo de metodologia do manifesto ágil.",
+    "bullets": [
+      "Desenvolvimento em C++ e LUA para OTCLIENTV8",
+      "Correção de bugs em API PHP do site",
+      "Criação de pequenos sistemas em LUA",
+      "Adoção de metodologia ágil baseada em KANBAN"
+    ]
+  },
+  {
+    "role": "Web Designer / Marketing",
+    "company": "Secretaria de Turismo do Estado de Sergipe",
+    "period": "Nov 2018 - Jun 2019",
+    "description": "Responsável por elaborar e homologar projetos de web design utilizando WordPress e Bootstrap, administrar toda parte de web no projeto 'Sergipe sinta de perto', além de reuniões com empresas terceirizadas de marketing e intermediação de infraestrutura com a Emgetis.",
+    "bullets": [
+      "Desenvolvimento em WordPress e Bootstrap",
+      "Gestão de projetos web do 'Sergipe sinta de perto'",
+      "Intermediação com empresas terceirizadas de marketing",
+      "Suporte em infraestrutura junto à Emgetis"
+    ]
+  },
+  {
+    "role": "Front End / UI/UX Designer - Estágio e Contrato",
+    "company": "Avatar B2B",
+    "period": "Nov 2013 - Jun 2014, Nov 2015 - Jun 2016, Mai 2018 - Jul 2018 (19 meses)",
+    "description": "Planejamento e execução de telas de aplicativos Android, landing pages e sites institucionais. Desenvolvimento front end com HTML, CSS, Bootstrap e WordPress (Elementor). Criação de códigos em PHP e JavaScript (jQuery), identidade visual, marketing e peças publicitárias. Experiência com Git, Trello e Jira. Atuei como estagiário em duas fases e prestador de serviços.",
+    "bullets": [
+      "Planejamento de UI/UX para Android, landing pages e sites",
+      "Front end com HTML, CSS, Bootstrap e WordPress (Elementor)",
+      "Programação em PHP e JavaScript (jQuery)",
+      "Criação de identidade visual e peças publicitárias",
+      "Uso de Git localmente, Trello e Jira para metodologias ágeis"
+    ]
+  },
+  {
+    "role": "Front End / Designer - Estágio",
+    "company": "MA9",
+    "period": "Jun 2016 - Dez 2016 (7 meses)",
+    "description": "Responsável pelo front end de projetos web com Bootstrap, execução de identidade visual e peças publicitárias, além de intermediação entre os setores de desenvolvimento e publicidade.",
+    "bullets": [
+      "Front end com Bootstrap",
+      "Execução de identidade visual e peças publicitárias",
+      "Intermediação entre desenvolvimento e publicidade",
+      "Ferramentas: HTML, CSS, JavaScript, PHP, Photoshop, Illustrator, InDesign, Pintura Digital"
+    ]
+  }
+],
+    "education": [
+      {
+        "degree": "Tecnologo em Análise e Desenvolvimento de Sistemas 4/5",
+        "institution": "Unit-SE, Universidade Tiradentes",
+        "period": "2024 - 2026",
+        "description": "Os sistemas desenvolvidos pelo analista/desenvolvedor de sistemas visam melhorar o tratamento de informações, agilizando processos e tornando-os mais seguros para as organizações."
+      },
+      {
+        "degree": "39 Cursos de extensão",
+        "institution": "Alura",
+        "period": "2023 - 2024",
+        "description": "39 Cursos de extensão em Tecnologia focado em  React / Node / SQL."
+      },
+      {
+        "degree": "Bacharelado em Design Gráfico",
+        "institution": "UNIT-SE, Universidade Tiradentes",
+        "period": "2013 - 2016",
+        "description": "Formação em sistemas e desenvolvimento de software."
+      },
+      {
+        "degree": "Técnico em Desenvolvimento de Sistemas",
+        "institution": "IFS - Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",
+        "period": "2010 - 2013",
+        "description": "Curso Técnico e ensino médio profissionalizante em Desenvolvimento de Sistemas"
+      }
+    ]
+  }
 }

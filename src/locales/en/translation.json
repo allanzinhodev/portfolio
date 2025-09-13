@@ -1,5 +1,49 @@
 {
   "name": "Allan Rodrigues",
   "title": "Creative Developer",
-  "bio": "I'm a multidisciplinary software developer with a background in arts and graphic design. I love studying how games and video games work at the machine level."
+  "bio": "I'm a multidisciplinary software developer with a background in arts and graphic design. I love studying how games and video games work at the machine level.",
+
+  "resume": {
+    "professional": "Jornada Profissional",
+    "academic": "Excelência Acadêmica",
+    "experience": [
+      {
+        "role": "Diretor Técnico",
+        "company": "Proin Corporation",
+        "period": "2022 - Presente",
+        "description": "Responsável por liderar projetos e equipes multifuncionais.",
+        "bullets": [
+          "Gerenciou equipes de 15+ profissionais",
+          "Implementou metodologias ágeis com ganho de 40%",
+          "Liderou transformações digitais acima de $2M"
+        ]
+      },
+      {
+        "role": "Gerente de Desenvolvimento",
+        "company": "Consectetur Solutions Inc",
+        "period": "2018 - 2022",
+        "description": "Atuação em liderança técnica e coordenação de projetos de software."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Mestrado em Ciência da Computação",
+        "institution": "Universidade Tempus",
+        "period": "2015 - 2017",
+        "description": "Estudos avançados em ciência da computação."
+      },
+      {
+        "degree": "Bacharelado em Tecnologia da Informação",
+        "institution": "Instituto Rhoncus",
+        "period": "2011 - 2015",
+        "description": "Formação em sistemas e desenvolvimento de software."
+      },
+      {
+        "degree": "Certificado em Inovação Digital",
+        "institution": "Academia Ligula",
+        "period": "2020",
+        "description": "Curso de aperfeiçoamento em inovação tecnológica."
+      }
+    ]
+  }
 }
